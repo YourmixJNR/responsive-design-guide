@@ -12,7 +12,7 @@ If you write CSS, you may have used directional keywords like "left", "right", "
 
 Whereas the directional property `margin-left` always refers to the margin on the left side of a content box, the logical property margin-inline-start refers to the margin on the left side of a content box in a left-to-right language, and the margin on the right side of a content box in a right-to-left language.
 
-In order for your designs to adapt to different writing modes, avoid directional properties. Use logical properties instead.Whereas the directional property margin-left always refers to the margin on the left side of a content box, the logical property `margin-inline-start` refers to the margin on the left side of a content box in a left-to-right language, and the margin on the right side of a content box in a right-to-left language.
+Use logical properties instead.Whereas the directional property margin-left always refers to the margin on the left side of a content box, the logical property `margin-inline-start` refers to the margin on the left side of a content box in a left-to-right language, and the margin on the right side of a content box in a right-to-left language.
 
 In order for your designs to adapt to different writing modes, avoid directional properties. Use logical properties instead.
 
