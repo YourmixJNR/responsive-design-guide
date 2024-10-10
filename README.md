@@ -19,6 +19,7 @@ The goal of this project is to:
 ## Contents 📂
 
 - [Introduction to Responsive Design](md/Introduction.md)
+- [Media queries](md/MediaQueries.md)
 
 ## How to Use This Repository
 
