@@ -20,6 +20,7 @@ The goal of this project is to:
 
 - [Introduction to Responsive Design](md/Introduction.md)
 - [Media queries](md/MediaQueries.md)
+- [Internationalization](md/Internationalization.md)
 
 ## How to Use This Repository
 
